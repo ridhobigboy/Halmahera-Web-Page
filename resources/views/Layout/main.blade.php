@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Grayscale - Start Bootstrap Theme</title>
+        <title>Mapala Halmahera</title>
         <link rel="icon" type="image/x-icon" href="{{asset('/Template/assets/favicon.ico')}}" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
@@ -38,9 +38,9 @@
             <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
                 <div class="d-flex justify-content-center">
                     <div class="text-center">
-                        <h1 class="mx-auto my-0 text-uppercase">Grayscale</h1>
-                        <h2 class="text-white-50 mx-auto mt-2 mb-5">A free, responsive, one page Bootstrap theme created by Start Bootstrap.</h2>
-                        <a class="btn btn-primary" href="#about">Get Started</a>
+                        <h1 class="mx-auto my-0 text-uppercase">Halmahera</h1>
+                        <h2 class="text-white-50 mx-auto mt-2 mb-5">Kami adalah saudara yang dipertemukan oleh tempaan pendidikan</h2>
+                        <a class="btn btn-primary" href="#about">Mari Bermain</a>
                     </div>
                 </div>
             </div>
@@ -50,15 +50,14 @@
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8">
-                        <h2 class="text-white mb-4">Built with Bootstrap 5</h2>
+                        <h2 class="text-white mb-4">Siapa Kami</h2>
                         <p class="text-white-50">
-                            Grayscale is a free Bootstrap theme created by Start Bootstrap. It can be yours right now, simply download the template on
-                            <a href="https://startbootstrap.com/theme/grayscale/">the preview page.</a>
-                            The theme is open source, and you can use it for any purpose, personal or commercial.
+                            Mapala halmahera adalah Unit Kegiatan mahasiswa Sekolah tinggi Teknologi Terpadu nurul fikri, yang berfokus pada kegiatan alam bebas
+                            dengan tujuan edukasi dan juga kemanusiaan
                         </p>
                     </div>
                 </div>
-                <img class="img-fluid" src="{{asset('Template/assets/img/ipad.png')}}" alt="..." />
+                <img class="img-fluid" src="{{asset('Template/assets/img/perjalanan.jpg')}}" alt="..." />
             </div>
         </section>
         <!-- Projects-->
@@ -69,7 +68,7 @@
                     <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="{{asset('Template/assets/img/bg-masthead.jpg')}}" alt="..." /></div>
                     <div class="col-xl-4 col-lg-5">
                         <div class="featured-text text-center text-lg-left">
-                            <h4>Shoreline</h4>
+                            <h4>Tentang</h4>
                             <p class="text-black-50 mb-0">Grayscale is open source and MIT licensed. This means you can use it for any project - even commercial projects! Download it, customize it, and publish your website!</p>
                         </div>
                     </div>
