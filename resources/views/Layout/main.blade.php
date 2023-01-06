@@ -28,7 +28,8 @@
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#signup">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#Contact">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#login">Login</a></li>
                     </ul>
                 </div>
             </div>
@@ -39,8 +40,8 @@
                 <div class="d-flex justify-content-center">
                     <div class="text-center">
                         <h1 class="mx-auto my-0 text-uppercase">Halmahera</h1>
-                        <h2 class="text-white-50 mx-auto mt-2 mb-5">Kami adalah saudara yang dipertemukan oleh tempaan pendidikan</h2>
-                        <a class="btn btn-primary" href="#about">Mari Bermain</a>
+                        <h2 class="text-white-50 mx-auto mt-2 mb-5">Himpunan Mahasiswa Pecinta Alam Dharma Kelana Nusantara</h2>
+                        <a class="btn btn-primary" href="#about">More About Us</a>
                     </div>
                 </div>
             </div>
@@ -51,12 +52,9 @@
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8">
                         <h2 class="text-white mb-4">Siapa Kami</h2>
-                        <p class="text-white-50">
-                            Mapala Halmahera merupakan unit kegiatan mahasiswa yang bertujuan untuk mewadahi minat dan bakat mahasiswa dalam berkegiatan dialam bebas
-                        </p>
                     </div>
                 </div>
-                <img class="img-fluid" src="{{asset('Template/assets/img/ipad.png')}}" alt="..." />
+                <img class="img-fluid" src="{{asset('Template/assets/img/perjalanan.jpg')}}" alt="..." />
             </div>
         </section>
         <!-- Projects-->
